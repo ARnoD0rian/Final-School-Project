@@ -1,0 +1,79 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+body{
+    height:1000px;
+    background-color:#D3F6FF;
+}
+.form{
+    margin-top: 0.5%;
+}
+#temperature{
+    margin-bottom: 1%;
+}
+.error{
+    color:red;
+    font-size:20px;
+}
+.log{
+    position: fixed;
+    right:10px;
+    bottom:40px;
+    background-color: black;
+    border-radius: 50%;
+    width: 3%;
+}
+.menu{
+    width:50%;
+    margin-top:30px;
+    height:100%;
+    background-color:white;
+    border-radius: 10px;
+    padding:20px;
+}
+.info{
+    text-align: left;
+    margin-left: 5px;
+}
+.menu_img{
+    width:inherit;
+}
+.log_exit{
+    position: fixed;
+    right:10px;
+    bottom:20px;
+    background-color:#28A745;
+    border-radius: 10px;
+    width: 4%;
+    height:3%;
+    color:white;
+    text-align: center;
+}
+.log_exit:hover{
+    position: fixed;
+    right:10px;
+    bottom:20px;
+    background-color:#28A745;
+    border-radius: 10px;
+    width: 4%;
+    height:3%;
+    color:white;
+    text-align: center;
+    text-decoration:none;    
+}
+.history{
+    text-align: center;
+    padding: 3px;
+}
+.vibor{
+    margin:100px;
+    border: 1px solid #28A745;
+    border-radius: 5px;
+    padding:5px;
+    background-color: #28A745;
+    color:white;
+    text-align: center;
+}
